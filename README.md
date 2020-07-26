@@ -8,5 +8,5 @@ Given the recent circumstances that the pandemic has emphasized on the world, tw
  Solution link:
 https://node-red-bkaeg.eu-gb.mybluemix.net/ui/#!/0?socketid=pzmWsUTSRPOInRNEAAAs
 
-![Website screenshot](https://github.com/SmartPracticeschool/SBSPS-Challenge-4551-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard/blob/master/webView.png)
+![Website screenshot](https://github.com/gersondi/Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard/blob/master/webView.png)
 
